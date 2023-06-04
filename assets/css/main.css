@@ -56,7 +56,7 @@ a {
 }
 
 h1 {
-  font-size: 13rem;
+  font-size: 12rem;
 }
 
 h2 {
@@ -80,7 +80,7 @@ h6 {
 }
 
 p {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 a,
@@ -571,7 +571,7 @@ a:hover {
 .about h1 {
   font-family: "Bebas Neue";
   margin-bottom: 0.6em;
-  font-size: 13rem;
+  font-size: 12rem;
 }
 
 .about h4 {
