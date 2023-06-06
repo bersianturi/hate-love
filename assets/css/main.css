@@ -603,3 +603,40 @@ a:hover {
 .about h6 {
   margin-bottom: 0.6em;
 }
+
+/** 10. Page --> Portfolio Item Type B
+*******************************************************************/
+
+.portfolio-item-b {
+  margin: 20rem 0 0 0;
+}
+
+.portfolio-item-b .container-fluid {
+  max-width: 900px;
+  padding: 0 30px;
+}
+
+.portfolio-item-b h1 {
+  margin-bottom: 0.25em;
+}
+
+.portfolio-item-b h4 {
+  margin-bottom: 1.8em;
+}
+
+.portfolio-item-b p {
+  line-height: 2.4em;
+  text-align: justify;
+
+  margin-bottom: 4em;
+}
+
+.portfolio-item-b img {
+  margin-bottom: 8rem;
+
+  border: 5px solid #fff;
+}
+
+.portfolio-item-b img:last-child {
+  margin-bottom: 0;
+}
